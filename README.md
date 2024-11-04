@@ -31,6 +31,16 @@ In the initial phase of Data Cleaning and Preparations, the following actions we
 - Handling missing variables.
 - Data Cleaning and Formatting.
 
+### Exploratory Data Analysis
+EDA involved the exploratory of Data to answer some questions about the data such as;
+- Retrieve the total number of customers from each region.
+- Find the most popular subscription type by the number of customers.
+- Find customers who canceled their subscription within 6 months.
+- Calculate the average subscription duration for all customers.
+- Find customers with subscriptions longer than 12 months.
+- Calculate total revenue by subscription type.
+- Find the top 3 regions by subscription cancellations.
+- Find the total number of active and canceled subscriptions.
 
 
 
