@@ -1,9 +1,35 @@
 ## LITA-CAPSTONE-PROJECT- Customer Data
----
 This entails a detailed analysis of a Sales Dataset and a Customer Subscription Dataset.
 
 ### Project Title: Sales and Customer Subscription Dataset
 ---
+
+[Project Overview For Sales Data](#project-overview-for-sales-data)
+
+[Project Overview For Customer Subscription Data](#project-overview-for-customer-subscription-data)
+
+[Column Descriptions For Sales Data](#column-descriptions-for-sales-data)
+
+[Column Descriptions For Customer Subscriptions Data](#column-descriptions-for-customer-subscriptions-data)
+
+[Data Sources](#data-sources)
+
+[Tools Used](#tools-used)
+
+[Data Cleaning and Preparations](#data-cleaning-and-preparations)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[For Sales Data](#for-sales-data)
+
+[For Customer Subscription Data](#for-customer-subscription-data)
+
+[Data Analysis](#data-analysis)
+
+[Data Visualization](#data-visualization)
+
+---
+
 ### Project Overview For Sales Data
 This dataset showcases a detailed view of customers orders on products, region and revenue generated. This data also analyses sales trends, regional overall performances and total monthly revenue for each year, which assists in reasonable decision-making. 
 
@@ -91,7 +117,7 @@ SELECT * FROM TABLE = SALESDATA
 SELECT * FROM TABLE = CUSTOMER_DATA
 ```
 
-### DATA VISUALIZATION
+### Data Visualization
 ---
 
 ![CUSTOMER SUBSCRIPTION DATA VISUALIZATION](https://github.com/user-attachments/assets/53204d66-736d-4821-8c3c-453e0a6ac659)
