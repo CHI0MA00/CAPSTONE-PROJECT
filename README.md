@@ -1,15 +1,18 @@
 ## LITA-CAPSTONE-PROJECT- Customer Data
-This entails a detailed analysis of a Customer Dataset.
+---
+This entails a detailed analysis of a Sales Dataset and a Customer Subscription Dataset.
 
 ### Project Title: Sales and Customer Subscription Dataset
-
+---
 ### Project Overview For Sales Data
 This dataset showcases a detailed view of customers orders on products, region and revenue generated. This data also analyses sales trends, regional overall performances and total monthly revenue for each year, which assists in reasonable decision-making. 
 
 ### Project Overview For Customer Subscription Data
+---
 The Data Analysis project aims to generate insights on the customer subscriptions patterns and revenue, enabling easy decision making into the patterns and high demand of various subscriptions of customers.
 
 #### Column Descriptions For Sales Data
+---
 - OrderID: Unique identifier for each order placed.
 - CustomerID: Unique identifier for each customer who has placed an oder
 - Product: Specific products sold for each order.
@@ -23,6 +26,7 @@ The Data Analysis project aims to generate insights on the customer subscription
   ```
 
 #### Column Descriptions For Customer Subscriptions Data
+---
 - CustomerID: Unique Identification number given to each customer.
 - CustomerName: Names of customers.
 - Region: Geographical area in which the customers are located (North, South, East and West).
@@ -34,23 +38,28 @@ The Data Analysis project aims to generate insights on the customer subscription
 - Duration: Number of Days for each subscription plan by customers.
 
 ### Data Sources
+---
 The primary sources of Data used here are the 'Sales Data.csv' and 'Customer Data.csv' and these are open source data that can be freely downloaded from online data sources such as Kaggle or FRED or ay other data repository site.
 
 ### Tools Used
+---
 - Microsoft Excel for Data Cleaning, Analysis and Visualization [Download Here](https://www.microsoft.com).
 - SQL: Structured Query Language utilized for Querying of Data.
 - Power BI: Utilized for Data cleaning and Visualization.
 
 ### Data Cleaning and Preparations
+---
 In the initial phase of Data Cleaning and Preparations, the following actions were performed:
 - Data Loading and Inspection.
 - Handling missing variables.
 - Data Cleaning and Formatting.
 
 ### Exploratory Data Analysis
+---
 EDA involved the exploratory of Data to answer some questions about the data such as;
 
 #### For Sales Data
+---
 - Retrieve the total sales for each product category.
 - Find the number of sales transactions in each region.
 - Find the highest-selling product by total sales value.
@@ -61,6 +70,7 @@ EDA involved the exploratory of Data to answer some questions about the data suc
 - Identify products with no sales in the last quarter.
 
 #### For Customer Subscription Data
+---
 - Retrieve the total number of customers from each region.
 - Find the most popular subscription type by the number of customers.
 - Find customers who canceled their subscription within 6 months.
@@ -71,6 +81,7 @@ EDA involved the exploratory of Data to answer some questions about the data suc
 - Find the total number of active and canceled subscriptions.
 
 ### Data Analysis
+---
 These are some basic lines of code or queries or even some of the DAX expressions used during analysis;
 ```SQL
 SELECT * FROM TABLE = SALESDATA
@@ -81,6 +92,7 @@ SELECT * FROM TABLE = CUSTOMER_DATA
 ```
 
 ### DATA VISUALIZATION
+---
 
 ![CUSTOMER SUBSCRIPTION DATA VISUALIZATION](https://github.com/user-attachments/assets/53204d66-736d-4821-8c3c-453e0a6ac659)
 
