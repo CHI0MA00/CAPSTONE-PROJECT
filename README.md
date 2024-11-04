@@ -50,3 +50,9 @@ SELECT * FROM TABLE = CUSTOMER_DATA
 
 ### DATA VISUALIZATION
 
+![CUSTOMER SUBSCRIPTION DATA VISUALIZATION](https://github.com/user-attachments/assets/53204d66-736d-4821-8c3c-453e0a6ac659)
+
+
+
+
+![SALES DATA VISUALIZATION](https://github.com/user-attachments/assets/e20a631a-2c31-4658-b12d-beb7f15ef651)
