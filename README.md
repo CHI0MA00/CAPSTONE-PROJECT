@@ -42,6 +42,13 @@ EDA involved the exploratory of Data to answer some questions about the data suc
 - Find the top 3 regions by subscription cancellations.
 - Find the total number of active and canceled subscriptions.
 
+### Data Analysis
+These are some basic lines of code or queries or even some of the DAX expressions used during analysis;
+```SQL
+SELECT * FROM TABLE = CUSTOMER_DATA
+```
+
+### DATA VISUALIZATION
 
 
 
