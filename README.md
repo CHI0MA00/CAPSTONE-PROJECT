@@ -21,7 +21,7 @@ The Data Analysis project aims to generate insights on the customer subscription
 The primary sources of Data used here is the Customer Data.csv and this is an open source data that can be freely downloaded from online data sources such as Kaggle or FRED or ay other data repository site.
 
 ### Tools Used
-- Microsoft Excel for Data Cleaning, Analysis and Visualization.
+- Microsoft Excel for Data Cleaning, Analysis and Visualization [Download Here](https://www.microsoft.com).
 - SQL: Structured Query Language utilized for Querying of Data.
 - Power BI: Utilized for Data cleaning and Visualization.
 
