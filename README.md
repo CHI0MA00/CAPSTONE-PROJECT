@@ -25,5 +25,13 @@ The primary sources of Data used here is the Customer Data.csv and this is an op
 - SQL: Structured Query Language utilized for Querying of Data.
 - Power BI: Utilized for Data cleaning and Visualization.
 
+### Data Cleaning and Preparations
+In the initial phase of Data Cleaning and Preparations, the following actions were performed:
+- Data Loading and Inspection.
+- Handling missing variables.
+- Data Cleaning and Formatting.
+
+
+
 
 
