@@ -1,10 +1,27 @@
 ## LITA-CAPSTONE-PROJECT- Customer Data
 This entails a detailed analysis of a Customer Dataset.
 
-### Project Title: Customer Subscription Dataset
+### Project Title: Sales and Customer Subscription Dataset
 
-### Project Overview For Customer Subsription Data
+### Project Overview For Sales Data
+This dataset showcases a detailed view of customers orders on products, region and revenue generated. This data also analyses sales trends, regional overall performances and total monthly revenue for each year, which assists in reasonable decision-making. 
+
+### Project Overview For Customer Subscription Data
 The Data Analysis project aims to generate insights on the customer subscriptions patterns and revenue, enabling easy decision making into the patterns and high demand of various subscriptions of customers.
+
+### Column Descriptions For Sales Data
+- OrderID: Unique identifier for each order placed.
+- CustomerID: Unique identifier for each customer who has placed an oder
+- Product: Specific products sold for each order.
+- Region: Geographical area where each order was placed and purchased (North, South, East and West)
+- OrderDate: The date each order was placed.
+- Quantity: Number of products purchased in every oder.
+- UnitPrice: The price per unit for each product.
+- Total Sales: The total sales value for every order.
+  ```Excel
+  Quantity * UnitPrice
+  ```
+
 
 ### Column Descriptions For Customer Subscriptions Data
 - CustomerID: Unique Identification number given to each customer.
